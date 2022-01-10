@@ -1,6 +1,7 @@
 import images from '../../constants/images';
 
-export const repository = 'https://ahmedbargady.me';
+export const repository =
+  'https://github.com/AhmedCoolProjects/JIna-Crypto-Coins-React-Native';
 
 export const portfolio = {
   balance: '12,724.33',
